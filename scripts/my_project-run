@@ -1,2 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+from my_project.lib import try_me
+
+print(try_me())
